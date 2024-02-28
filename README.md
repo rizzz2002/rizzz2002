@@ -19,7 +19,9 @@ Resources: Discover helpful resources, tutorials, and articles related to progra
 Get in Touch:
 
 LinkedIn: https://rb.gy/7hz56z
+
 Email: rizbin00rahi@gmail.com
+
 Feel free to explore, fork, and contribute to my projects. Let's connect and collaborate on exciting projects together!
 
 Happy coding! 
